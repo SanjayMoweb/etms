@@ -1,0 +1,3 @@
+[submodule "etms-user-microservice"]
+	path = etms-user-microservice
+	url = https://github.com/SanjayMoweb/etms-user-microservice.git
