@@ -1,3 +1,6 @@
 [submodule "etms-user-microservice"]
 	path = etms-user-microservice
 	url = https://github.com/SanjayMoweb/etms-user-microservice.git
+[submodule "etms-notification-microservice"]
+	path = etms-notification-microservice
+	url = https://github.com/SanjayMoweb/etms-notification-microservice.git
